@@ -1,3 +1,4 @@
 Hello this is index.txt file...
 
 Updating in index.txt
+Updating index.txt from Git hub
